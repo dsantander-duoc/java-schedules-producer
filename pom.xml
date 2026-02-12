@@ -9,7 +9,7 @@
 		<version>3.3.12</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cl.duoc.ejemplo.dsy2206.semana5</groupId>
+	<groupId>cl.duoc.schedules_producer</groupId>
 	<artifactId>schedules-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>schedules-producer</name>
@@ -28,7 +28,7 @@
 		<url />
 	</scm>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
